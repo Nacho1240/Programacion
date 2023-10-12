@@ -1,3 +1,8 @@
+//objetivo: Calcular Areas de las siguientes figuras.
+//Codigo Incompleto, completar para ejercitar.
+
+
+
 #include <iostream>
 using namespace std;
 //creacion de las funciones
