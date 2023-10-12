@@ -1,3 +1,4 @@
+//Codigo para ejercitar, incompleto.
 #include <iostream>
 using namespace std;
 int mayor(int *a, int *b){
