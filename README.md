@@ -1,14 +1,14 @@
 # Programacion
 
-¡Bienvenido a **Programacion**! Este repositorio es un recurso integral que contiene una colección de ejercicios en formato `.cpp` diseñados para ayudarte a mejorar tus habilidades en programación con C++ y estructuras de datos.
+¡Bienvenido a **Programacion**! Este repositorio es una coleccion de ejercicios obtenidos a lo largo del tiempo, utiles para ayudarte a mejorar tus habilidades en programación con C++ y estructuras de datos.
 
 ## Descripción
 
 Este repositorio está dividido en tres sub-repositorios, cada uno enfocado en un nivel de habilidad o en un área específica:
 
-1. **C++ Básico**: Ejercicios para principiantes que cubren los fundamentos del lenguaje C++.
-2. **C++ Medio**: Ejercicios de dificultad media para aquellos que desean profundizar en conceptos más avanzados de C++.
-3. **Estructura de Datos**: Ejercicios que cubren diversas estructuras de datos y sus implementaciones en C++.
+1. **C++ Básico**: Ejercicios para principiantes que cubren los fundamentos del lenguaje C++, propio del curso de Programacion 1.
+2. **C++ Medio**: Ejercicios de dificultad media para aquellos que desean profundizar en conceptos más avanzados de C++, del curso Programacion Avanzada.
+3. **Estructura de Datos**: Ejercicios que cubren diversas estructuras de datos y sus implementaciones en Java.
 
 
 
@@ -26,9 +26,7 @@ Para utilizar los ejercicios de este repositorio, sigue estos pasos:
 
     ```bash
     cd programacion/cpp-basico
-    # o
     cd programacion/cpp-medio
-    # o
     cd programacion/estructura-de-datos
     ```
 
@@ -44,21 +42,14 @@ Para utilizar los ejercicios de este repositorio, sigue estos pasos:
     1. Abre Visual Studio Code y navega al directorio del sub-repositorio deseado.
     2. Abre el archivo `.cpp` que deseas compilar y ejecutar.
     3. Abre la terminal integrada en Visual Studio Code (puedes hacerlo con `Ctrl + ``).
-    4. Compila el archivo usando el compilador de C++:
+    4. Descarga la extension C/C++ para poder ejecutar los archivos .cpp
+    5. Tambien puedes utilizar VScode para los ejercicios .java de estructura de Datos.
 
-        ```bash
-        g++ ejercicio1.cpp -o ejercicio1
-        ```
-
-    5. Ejecuta el archivo compilado:
-
-        ```bash
-        ./ejercicio1
-        ```
+     
 
 ## Uso
 
-Cada sub-repositorio contiene archivos `.cpp` con ejercicios independientes. Puedes explorar los archivos, compilar y ejecutar cada uno para practicar tus habilidades en C++ y estructuras de datos.
+Cada sub-repositorio contiene archivos `.cpp` y `.java` con ejercicios independientes. Puedes explorar los archivos, compilar y ejecutar cada uno para practicar tus habilidades en C++ y estructuras de datos.
 
 ## Contribución
 
